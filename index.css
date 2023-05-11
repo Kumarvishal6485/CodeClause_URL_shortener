@@ -1,0 +1,53 @@
+#url{
+    width : 630px;
+    height : 35px;
+    margin-left : 15px;
+    outline : none;
+}
+.main{
+    height : 100vh;
+    width : 100vw;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e0e1dd;
+}
+.container{
+    width: 800px;
+    height : 500px;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form{
+    height : 70px;
+    width: 750px;
+    border : 2px solid white;
+    margin : 2px 20px 20px 20px;
+    display : flex;
+    align-items: center;
+    background-color: #caf0f8;
+    border-radius : 12px;
+}
+
+#button{
+    height : 40px;
+    width : 70px;
+    color : white;
+    background-color: rgba(44, 44, 167, 0.776);
+    outline : none;
+    border : none;
+    border-radius: 6px;
+}
+
+.table{
+    width :1095px;
+}
+.details{
+    width: 1100px;
+    height : 500px;
+    overflow : scroll;
+    background-color: whitesmoke;
+    border : 2px solid black;
+    border-radius : 12px;
+}
